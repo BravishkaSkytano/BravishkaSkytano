@@ -1,14 +1,14 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on creating themes for Hexo and Jekyll
-- 🌱 I’m currently learning Python
-<!--
+- 🔭 I’m currently working on writing and web development.
+- 🌱 I’m currently learning Python, JavaScript, and how to manage an eccomerce website.
+- <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: 
 -->
-[![Aspiring-Writer's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aspiring-Writer&show_icons=true&count_private=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+- 💬 Ask me about web development, crochet, knitting, and Christianity.
+- <!--📫 How to reach me: ... -->
+- ⚡ Fun fact: my personality type is Campaigner.
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Aspiring-Writer&show_icons=true&count_private=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
