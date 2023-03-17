@@ -10,5 +10,5 @@
 - <!--📫 How to reach me: ... -->
 - ⚡ Fun fact: my personality type is Campaigner.
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Aspiring-Writer&show_icons=true&count_private=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=BravishkaSkytano&show_icons=true&count_private=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
