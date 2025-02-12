@@ -6,10 +6,13 @@
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 -->
-- 💬 Ask me about web development, crochet, knitting, and Christianity.
+- 💬 Ask me about web development, crochet, knitting, Christianity, apologetics, and the Bible.
 - 📫 How to reach me: [check out my LinkTree](https://bravishkaskytano.github.io)
 - ⚡ Fun fact: my personality type is Campaigner.
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=BravishkaSkytano&show_icons=true&count_private=true&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=BravishkaSkytano&theme=catppuccin-macchiato&mode=weekly)](https://git.io/streak-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=BravishkaSkytano&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=rose_pine" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BravishkaSkytano&layout=compact&langs_count=8&card_width=320" />
+</a>
